@@ -1,0 +1,4 @@
+kagglehub==0.3.13
+pandas==2.3.3
+scikit_learn==1.8.0
+tqdm==4.66.2
